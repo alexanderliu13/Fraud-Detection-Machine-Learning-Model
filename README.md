@@ -1,1 +1,2 @@
 # Fraud Detection Machine Learning Model
+This project is a machine learning model that can be utilized to identify fraudulent credit card transactions. In the process of independently building this project, I applied my knowledge of data structures through the use of minimum spanning trees and edge weighted graphs to cluster data for better model performance. Additionally, I strengthened my understanding of machine learning models by first optimizing decision stumps based on training data as well as combining multiple stumps to enhance classification accuracy.
